@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUNNIES SPECS | SHOP-</title>
+
+    <!-- box icons  -->
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+    <!-- styles  -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <!-- HEADER  -->
+    <header>
+        <!-- NAV  -->
+        <div class="nav container">
+            <a href="index.html" class="logo"><span>Sunnies</span>Specs</a>
+			
+			<div class="navbar">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="products.html">Products</a></li>
+			</ul>
+            <!-- CART ICON  -->
+            <i class='bx bx-shopping-bag' id="cart-icon"></i>
+			</div>
+            <!-- CART  -->
+            <div class="cart">
+                <h2 class="cart-title">Your Cart</h2>
+
+                <!-- CONTENT  -->
+                <div class="cart-content">
+
+
+                </div>
+
+                <!-- TOTAL   -->
+                <div class="total">
+                    <div class="total-title">Total</div>
+                    <div class="total-price">$0</div>
+                </div>
+                <!-- BUY BUTTON  -->
+                <button type="button" class="btn-buy">Buy Now</button>
+                <!-- CART CLOSE  -->
+                <i class='bx bx-x' id="cart-close"></i>
+            </div>
+        </div>
+    </header>
+
+
+    <!-- SHOP SECTION  -->
+    <section class="shop container">
+        <h2 class="section-title">All Products</h2>
+
+        <!-- CONTENT  -->
+        <div class="shop-content">
+            <!-- BOX 1 -->
+            <div class="product-box">
+                <img src="assets/img/product1.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Acrylic Frame Rectangle Glasses</h2>
+                <span class="product-price">$79.5</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 2 -->
+            <div class="product-box">
+                <img src="assets/img/product2.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Rimless Square Frame Glasses</h2>
+                <span class="product-price">$59.5</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 3 -->
+            <div class="product-box">
+                <img src="assets/img/product3.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Rectangle Frame Sunglasses</h2>
+                <span class="product-price">$29.5</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 4 -->
+            <div class="product-box">
+                <img src="assets/img/product4.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Square Metal Frame Fashion</h2>
+                <span class="product-price">$105</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 5 -->
+            <div class="product-box">
+                <img src="assets/img/product5.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Acrylic Frame Double Bridge</h2>
+                <span class="product-price">$95</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 6 -->
+            <div class="product-box">
+                <img src="assets/img/product6.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Rimless Frame Purple Glasses</h2>
+                <span class="product-price">$1400</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 7 -->
+            <div class="product-box">
+                <img src="assets/img/product7.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Yellow Double Bridge Frame Glasses</h2>
+                <span class="product-price">$1700</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 8 -->
+            <div class="product-box">
+                <img src="assets/img/product8.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Rectangular Pink fashin Glasses</h2>
+                <span class="product-price">$110.5</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+			
+			<!-- BOX 9 -->
+            <div class="product-box">
+                <img src="assets/img/product9.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Metal Butterfly Frame GLasses</h2>
+                <span class="product-price">$79.5</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 10 -->
+            <div class="product-box">
+                <img src="assets/img/product10.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Rimless Blue Glasses</h2>
+                <span class="product-price">$59.5</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 11 -->
+            <div class="product-box">
+                <img src="assets/img/product11.jpg" alt="" class="product-img">
+                <h2 class="product-title">Circle Metal Frame Sunglasses</h2>
+                <span class="product-price">$29.5</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 12 -->
+            <div class="product-box">
+                <img src="assets/img/product12.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Basic Black Rectangular Shades</h2>
+                <span class="product-price">$105</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 13 -->
+            <div class="product-box">
+                <img src="assets/img/product13.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Transparent Pink Metal Frame Glasses</h2>
+                <span class="product-price">$95</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 14 -->
+            <div class="product-box">
+                <img src="assets/img/product14.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Acrylic Yellow Sunglasses</h2>
+                <span class="product-price">$1400</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 15 -->
+            <div class="product-box">
+                <img src="assets/img/product15.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Heart Shapes Sunglasses</h2>
+                <span class="product-price">$1700</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!-- BOX 16 -->
+            <div class="product-box">
+                <img src="assets/img/product16.jpeg" alt="" class="product-img">
+                <h2 class="product-title">Regular Frame Pink Glasses </h2>
+                <span class="product-price">$110.5</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+        </div>
+    </section>
+ <!---------- Footer ----------->	
+
+	<div class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="footer-col-1">
+					<h3>Download Our App</h3> 
+					<p> Download App for Android and Ios mobile phone.</p>
+					<div class="app-logo">
+						<img src="assets/img/play-store.png">
+						<img src="assets/img/app-store.png">
+					</div>
+					
+				</div> 
+				
+				<div class="footer-col-2">
+					<h3>Follow us</h3>
+					<ul>
+						<li> Facebook</li>
+						<li> Twitter</li>
+						<li> Instagram</li>
+						<li> Youtube</li>
+					</ul>
+				</div> 
+			</div>
+			<hr>
+			<p class="copyright">Copyright 2022</p>
+		</div>
+	</div>
+	
+    <!-- link js  -->
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>
